@@ -1,4 +1,4 @@
-# scheduling_and_notification
+# Scheduling and Notification App
 
 A mobile app for Schedulling and managing notification using Flutter. This project is designed to fulfill a task requirement for Mobile Application Programming Class
 
